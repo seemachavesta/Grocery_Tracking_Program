@@ -11,7 +11,7 @@ This project provide a user-friendly interface through the console menu, allowin
 
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-I can handle errors when reading or typing, and I can improve how it handles lots of items for better performance. Splitting tasks into smaller parts can make it easier to understand.
+An area where I see room for improvement is how the program manages file operations. By incorporating exceptions to handle situations where files can't be opened or written, the program could offer more informative error messages. 
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 
